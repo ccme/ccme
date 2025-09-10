@@ -6,7 +6,7 @@ The **CCME Platform** is a private-first communication and media sharing system 
 
 At the heart of the platform are three key ideas:
 
-1. **Pulse** – capture quick updates (video shorts, images, or text).
+1. **[Pulse](https://github.com/mieweb/pulse)** – capture quick updates (video shorts, images, or text).
 2. **CCME Server** – keep posts private by default, while allowing controlled sharing to teams or individuals.
 3. **Stethoscope** – a TikTok-like feed where users can review, acknowledge, and respond to posts quickly.
 
